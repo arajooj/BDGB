@@ -13,7 +13,10 @@
   "dependencies": {
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jimp": "^0.9.5",
+    "pensador": "^1.0.4"
   },
   "devDependencies": {
     "ngrok": "^3.2.7",
